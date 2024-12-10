@@ -1,9 +1,5 @@
-Breadth first search traversal + Find best path with a GUI
+A Breadth-First Search (BFS) traversal program with a graphical user interface (GUI) to find the optimal path.
 
-In this program you first set "walls" the algorithm will avoid
-Then you set a "starting" and "destination" point
+In this program, you first define "walls" that the algorithm will avoid, and then set the "starting" and "destination" points.
 
-When you start traversing you will see exactly how the algorithm is visiting every edge node
-Then it will show you The best possible path
-
-GUI was made by tkinter library
+As the algorithm runs, you will visually observe how it explores each neighboring node. Once traversal is complete, the program will display the best possible path.
